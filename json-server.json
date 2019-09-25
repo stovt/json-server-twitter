@@ -1,6 +1,5 @@
 {
-  "port": 3001,
+  "host": "https://json-server-twitter.herokuapp.com/",
   "routes": "routes.json",
-  "middlewares": ["middleware.js"],
-  "watch": true
+  "middlewares": ["middleware.js"]
 }
