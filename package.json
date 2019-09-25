@@ -1,0 +1,12 @@
+{
+  "name": "json-server-twitter",
+  "version": "1.0.0",
+  "main": "db.json",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}

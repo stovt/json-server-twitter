@@ -1,0 +1,723 @@
+{
+  "tweets": {
+    "success": true,
+    "tweets": [
+      {
+        "id": 1,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "userId": 1,
+        "createdAt": "2019-09-25T09:15:13.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 1,
+          "firstName": "Sergey",
+          "lastName": "Tovt",
+          "email": "st@email.com"
+        },
+        "childrenAmount": 1,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 2,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egestas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+        "userId": 1,
+        "createdAt": "2019-09-25T09:15:49.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 1,
+          "firstName": "Sergey",
+          "lastName": "Tovt",
+          "email": "st@email.com"
+        },
+        "childrenAmount": 0,
+        "likesCount": 0,
+        "liked": false
+      },
+      {
+        "id": 3,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus vestibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+        "userId": 1,
+        "createdAt": "2019-09-25T09:15:57.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 1,
+          "firstName": "Sergey",
+          "lastName": "Tovt",
+          "email": "st@email.com"
+        },
+        "childrenAmount": 2,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 4,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nomvyrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id emvy laborum.",
+        "userId": 2,
+        "createdAt": "2019-09-25T09:15:13.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 2,
+          "firstName": "Maksym",
+          "lastName": "Yurchenko",
+          "email": "mvy@email.com"
+        },
+        "childrenAmount": 1,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 5,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egemvyas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+        "userId": 2,
+        "createdAt": "2019-09-25T09:15:49.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 2,
+          "firstName": "Maksym",
+          "lastName": "Yurchenko",
+          "email": "mvy@email.com"
+        },
+        "childrenAmount": 0,
+        "likesCount": 0,
+        "liked": false
+      },
+      {
+        "id": 6,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vemvyibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus vemvyibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+        "userId": 2,
+        "createdAt": "2019-09-25T09:15:57.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 2,
+          "firstName": "Maksym",
+          "lastName": "Yurchenko",
+          "email": "mvy@email.com"
+        },
+        "childrenAmount": 2,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 7,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis noiimrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id eiim laborum.",
+        "userId": 3,
+        "createdAt": "2019-09-25T09:15:13.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 3,
+          "firstName": "Ivan",
+          "lastName": "Mykoriak",
+          "email": "iim@email.com"
+        },
+        "childrenAmount": 1,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 8,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egeiimas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+        "userId": 3,
+        "createdAt": "2019-09-25T09:15:49.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 3,
+          "firstName": "Ivan",
+          "lastName": "Mykoriak",
+          "email": "iim@email.com"
+        },
+        "childrenAmount": 0,
+        "likesCount": 0,
+        "liked": false
+      },
+      {
+        "id": 9,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus veiimibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus veiimibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+        "userId": 3,
+        "createdAt": "2019-09-25T09:15:57.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 3,
+          "firstName": "Ivan",
+          "lastName": "Mykoriak",
+          "email": "iim@email.com"
+        },
+        "childrenAmount": 2,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 10,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis noosarud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id eosa laborum.",
+        "userId": 4,
+        "createdAt": "2019-09-25T09:15:13.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 4,
+          "firstName": "Sergey",
+          "lastName": "Ovdienko",
+          "email": "osa@email.com"
+        },
+        "childrenAmount": 1,
+        "likesCount": 1,
+        "liked": true
+      },
+      {
+        "id": 11,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egeosaas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+        "userId": 4,
+        "createdAt": "2019-09-25T09:15:49.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 4,
+          "firstName": "Sergey",
+          "lastName": "Ovdienko",
+          "email": "osa@email.com"
+        },
+        "childrenAmount": 0,
+        "likesCount": 0,
+        "liked": false
+      },
+      {
+        "id": 12,
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus veosaibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus veosaibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+        "userId": 4,
+        "createdAt": "2019-09-25T09:15:57.000Z",
+        "deleted": 0,
+        "user": {
+          "id": 4,
+          "firstName": "Sergey",
+          "lastName": "Ovdienko",
+          "email": "osa@email.com"
+        },
+        "childrenAmount": 2,
+        "likesCount": 1,
+        "liked": true
+      }
+    ]
+  },
+  "tweetsById": [
+    {
+      "id": 1,
+      "success": true,
+      "tweets": [
+        {
+          "id": 1,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "userId": 12,
+          "createdAt": "2019-09-25T09:15:13.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 1,
+          "likesCount": 1,
+          "liked": true
+        },
+        {
+          "id": 2,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egestas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:15:49.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 3,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus vestibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:15:57.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 2,
+          "likesCount": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "success": true,
+      "tweets": [
+        {
+          "id": 4,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nomvyrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id emvy laborum.",
+          "userId": 2,
+          "createdAt": "2019-09-25T09:15:13.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 2,
+            "firstName": "Maksym",
+            "lastName": "Yurchenko",
+            "email": "mvy@email.com"
+          },
+          "childrenAmount": 1,
+          "likesCount": 1,
+          "liked": true
+        },
+        {
+          "id": 5,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egemvyas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+          "userId": 2,
+          "createdAt": "2019-09-25T09:15:49.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 2,
+            "firstName": "Maksym",
+            "lastName": "Yurchenko",
+            "email": "mvy@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 6,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vemvyibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus vemvyibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+          "userId": 2,
+          "createdAt": "2019-09-25T09:15:57.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 2,
+            "firstName": "Maksym",
+            "lastName": "Yurchenko",
+            "email": "mvy@email.com"
+          },
+          "childrenAmount": 2,
+          "likesCount": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "success": true,
+      "tweets": [
+        {
+          "id": 7,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis noiimrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id eiim laborum.",
+          "userId": 3,
+          "createdAt": "2019-09-25T09:15:13.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 3,
+            "firstName": "Ivan",
+            "lastName": "Mykoriak",
+            "email": "iim@email.com"
+          },
+          "childrenAmount": 1,
+          "likesCount": 1,
+          "liked": true
+        },
+        {
+          "id": 8,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egeiimas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+          "userId": 3,
+          "createdAt": "2019-09-25T09:15:49.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 3,
+            "firstName": "Ivan",
+            "lastName": "Mykoriak",
+            "email": "iim@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 9,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus veiimibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus veiimibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+          "userId": 3,
+          "createdAt": "2019-09-25T09:15:57.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 3,
+            "firstName": "Ivan",
+            "lastName": "Mykoriak",
+            "email": "iim@email.com"
+          },
+          "childrenAmount": 2,
+          "likesCount": 1,
+          "liked": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "success": true,
+      "tweets": [
+        {
+          "id": 10,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis noosarud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id eosa laborum.",
+          "userId": 4,
+          "createdAt": "2019-09-25T09:15:13.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 4,
+            "firstName": "Sergey",
+            "lastName": "Ovdienko",
+            "email": "osa@email.com"
+          },
+          "childrenAmount": 1,
+          "likesCount": 1,
+          "liked": true
+        },
+        {
+          "id": 11,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare lectus sit. Elementum eu facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa eget egeosaas. In fermentum posuere urna nec tincidunt. Leo in vitae turpis massa sed elementum tempus.",
+          "userId": 4,
+          "createdAt": "2019-09-25T09:15:49.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 4,
+            "firstName": "Sergey",
+            "lastName": "Ovdienko",
+            "email": "osa@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 12,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus veosaibulum mattis ullamcorper velit sed ullamcorper morbi. Tempor commodo ullamcorper a lacus veosaibulum sed. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.",
+          "userId": 4,
+          "createdAt": "2019-09-25T09:15:57.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 4,
+            "firstName": "Sergey",
+            "lastName": "Ovdienko",
+            "email": "osa@email.com"
+          },
+          "childrenAmount": 2,
+          "likesCount": 1,
+          "liked": true
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "success": true,
+      "tweets": [
+        {
+          "id": 13,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:12.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 14,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:19.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "success": true,
+      "tweets": [
+        {
+          "id": 15,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:12.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 16,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:19.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "success": true,
+      "tweets": [
+        {
+          "id": 17,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:12.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 18,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:19.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "success": true,
+      "tweets": [
+        {
+          "id": 19,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:12.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        },
+        {
+          "id": 20,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:16:19.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0,
+          "liked": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "success": true,
+      "tweets": [
+        {
+          "id": 21,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:15:32.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "success": true,
+      "tweets": [
+        {
+          "id": 22,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:15:32.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "success": true,
+      "tweets": [
+        {
+          "id": 23,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userId": 1,
+          "createdAt": "2019-09-25T09:15:32.000Z",
+          "deleted": 0,
+          "user": {
+            "id": 1,
+            "firstName": "Sergey",
+            "lastName": "Tovt",
+            "email": "st@email.com"
+          },
+          "childrenAmount": 0,
+          "likesCount": 0
+        }
+      ]
+    }
+  ],
+  "users": {
+    "success": true,
+    "users": [
+      {
+        "id": 1,
+        "firstName": "Sergey",
+        "lastName": "Tovt",
+        "email": "st@email.com"
+      },
+      {
+        "id": 2,
+        "firstName": "Maksym",
+        "lastName": "Yurchenko",
+        "email": "mvy@email.com"
+      },
+      {
+        "id": 3,
+        "firstName": "Ivan",
+        "lastName": "Mykoriak",
+        "email": "iim@email.com"
+      },
+      {
+        "id": 4,
+        "firstName": "Sergey",
+        "lastName": "Ovdienko",
+        "email": "osa@email.com"
+      }
+    ]
+  },
+  "usersById": [
+    {
+      "id": 1,
+      "success": true,
+      "user": {
+        "id": 1,
+        "firstName": "Sergey",
+        "lastName": "Tovt",
+        "email": "st@email.com"
+      }
+    },
+    {
+      "id": 2,
+      "success": true,
+      "user": {
+        "id": 2,
+        "firstName": "Maksym",
+        "lastName": "Yurchenko",
+        "email": "mvy@email.com"
+      }
+    },
+    {
+      "id": 3,
+      "success": true,
+      "user": {
+        "id": 3,
+        "firstName": "Ivan",
+        "lastName": "Mykoriak",
+        "email": "iim@email.com"
+      }
+    },
+    {
+      "id": 4,
+      "success": true,
+      "user": {
+        "id": 4,
+        "firstName": "Sergey",
+        "lastName": "Ovdienko",
+        "email": "osa@email.com"
+      }
+    }
+  ],
+  "signin": {
+    "success": true,
+    "userId": 1,
+    "firstName": "Sergey",
+    "email": "st@email.com",
+    "lastName": "Tovt",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTg3MDgwNjAsInN1YiI6IjEiLCJpYXQiOjE1Njk0MDU1OTd9.od4NnfhOYcWoknTZlbgC5gFZwOza3qmRglfJR9zjK8Q"
+  },
+  "signup": {
+    "success": true
+  },
+  "tweetDelete": {
+    "success": true
+  },
+  "errorMessage": {
+    "success": false,
+    "message": "It doesn't work with mock api."
+  }
+}
