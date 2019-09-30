@@ -4,9 +4,13 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
+// Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
 
-server.use(function (req, res, next) {
+// To handle POST, PUT and PATCH you need to use a body-parser
+// You can use the one used by JSON Server
+server.use(jsonServer.bodyParser);
+server.use((req, res, next) => {
   if (req.method === 'POST') {
     // Converts POST to GET and move payload to query params
     // This way it will make JSON Server that it's GET request
@@ -17,6 +21,7 @@ server.use(function (req, res, next) {
   next()
 })
 
+// Add custom routes before JSON Server router
 server.use(jsonServer.rewriter({
   '/tweet/get/all': '/tweets/',
   '/users/get/all': '/users/',
@@ -28,10 +33,10 @@ server.use(jsonServer.rewriter({
   '/tweet/delete/:id': '/tweetDelete/',
   '/tweet/create': '/errorMessage/',
   '/like/:id': '/errorMessage/'
-}))
+}));
 
+// Use default router
 server.use(router);
-
 server.listen(port, () => {
-  console.log('JSON Server is running')
+  console.log('JSON Server is running at http://localhost:' + port);
 });
