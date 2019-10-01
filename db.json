@@ -704,7 +704,7 @@
   ],
   "signin": {
     "success": true,
-    "userId": 1,
+    "id": 1,
     "firstName": "Sergey",
     "email": "st@email.com",
     "lastName": "Tovt",
